@@ -1,6 +1,6 @@
 # HTML Examples of Letters.
 
-The [classic-letter.html](https://github.com/Lifebot-api/html-examples/blob/master/classic-letter.html) template with the variables below will generate a PDF like this one : [Generated PDF]()
+The [classic-letter.html](https://github.com/Lifebot-api/html-examples/blob/master/classic-letter.html) template with the variables below will generate a PDF like this one : [classic-letter.pdf](https://github.com/Lifebot-api/html-examples/blob/master/classic-letter.pdf)
 
 ```
 'variables': {
